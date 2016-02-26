@@ -13,7 +13,6 @@ Software developer with commercial experience in web, desktop and mobile develop
 - JavaScript
 - JSP 
 - Android
-----------
 - Git
 - ClearCase
 - CVS 
@@ -21,11 +20,9 @@ Software developer with commercial experience in web, desktop and mobile develop
 - Sonar
 - Docker
 - Ansible
-----------
 - Microsoft SQL
 - PostgreSQL
 - MySQL                                      
-----------
 - PKI 
 - OATH
 - PKCS*
