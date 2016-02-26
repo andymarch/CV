@@ -37,11 +37,15 @@ Software developer with commercial experience in web, desktop and mobile develop
 ###BSc Computer Science with Year in Industry Upper Second Class with Honours
 The University of Kent (2005 – 2009)
 
-**Year 1: **Introduction to Object Orientated Programming,  Further Object Orientated Programming, Introduction to Information Systems, Foundations of Computing 1 & 2, Functional Programming, Computer Systems, Managers and Organisations.
-**Year 2:** Algorithms Data Structures and Complexity, Dynamic Web, Distributed Systems and Networks, Operating Systems and Architecture, Introduction to Intelligent Systems, Human Computer Interaction, Software Engineering Practice, Database Systems. 
-**Year 3:** Year spent on industrial placement with Morgan Stanley.
-**Year 4: **Programming Language Technology, Computer Networks and Communications, Computer Security and Cryptography, E-Commerce, Mobile and Ubiquitous Computing, Data Mining and Knowledge Discovery.
-**Final Year Project Title:** Anonymous peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
+######Year 1######
+Introduction to Object Orientated Programming,  Further Object Orientated Programming, Introduction to Information Systems, Foundations of Computing 1 & 2, Functional Programming, Computer Systems, Managers and Organisations.
+######Year 2######
+Algorithms Data Structures and Complexity, Dynamic Web, Distributed Systems and Networks, Operating Systems and Architecture, Introduction to Intelligent Systems, Human Computer Interaction, Software Engineering Practice, Database Systems. 
+######Year 3######
+Year spent on industrial placement with Morgan Stanley.
+######Year 4######
+Programming Language Technology, Computer Networks and Communications, Computer Security and Cryptography, E-Commerce, Mobile and Ubiquitous Computing, Data Mining and Knowledge Discovery.
+######Final Year Project Title###### Anonymous peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
 
 ##Professional Experience
 
