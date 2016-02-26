@@ -45,7 +45,8 @@ Algorithms Data Structures and Complexity, Dynamic Web, Distributed Systems and 
 Year spent on industrial placement with Morgan Stanley.
 ######Year 4######
 Programming Language Technology, Computer Networks and Communications, Computer Security and Cryptography, E-Commerce, Mobile and Ubiquitous Computing, Data Mining and Knowledge Discovery.
-######Final Year Project Title###### Anonymous peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
+######Final Year Project Title######
+Anonymous peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
 
 ##Professional Experience
 
