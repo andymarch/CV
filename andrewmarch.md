@@ -6,7 +6,7 @@ Software developer with commercial experience in web, desktop and mobile develop
 
 
 
-##Technical Skillset
+## Technical Skillset Summary
 |||
 |---|---|
 |**Development Languages**|C#, Java,C++, Javascript (jQuery)
@@ -18,25 +18,25 @@ Software developer with commercial experience in web, desktop and mobile develop
 |**Other**|Public Key Infrastructure (PKI), Multi-factor Authentication, Thales nShield HSM (Certified), SafeNet Luna HSM
 
 
-##Education
+## Education
 
-###BSc Computer Science with Year in Industry Upper Second Class with Honours
+### BSc Computer Science with Year in Industry Upper Second Class with Honours
 The University of Kent (2005 – 2009)
 
-######Year 1
+###### Year 1
 Introduction to Object Orientated Programming,  Further Object Orientated Programming, Introduction to Information Systems, Foundations of Computing 1 & 2, Functional Programming, Computer Systems, Managers and Organisations.
-######Year 2
+###### Year 2
 Algorithms Data Structures and Complexity, Dynamic Web, Distributed Systems and Networks, Operating Systems and Architecture, Introduction to Intelligent Systems, Human Computer Interaction, Software Engineering Practice, Database Systems. 
-######Year 3
+###### Year 3
 Year spent on industrial placement with Morgan Stanley.
-######Year 4
+###### Year 4
 Programming Language Technology, Computer Networks and Communications, Computer Security and Cryptography, E-Commerce, Mobile and Ubiquitous Computing, Data Mining and Knowledge Discovery.
 ######Final Year Project
 Anonymous peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
 
-##Professional Experience
+## Professional Experience
 
-###Entrust Datacard - Principal Consultant Developer
+### Entrust Datacard - Principal Consultant Developer
 *January 2012 to present*
 
 Working within the Field Services group to provide development consultancy across the Entrust range of authentication and public key infrastructure products.
@@ -45,7 +45,7 @@ As principal consultant my role includes providing direction to the development 
 
 I was recognised with others for a "customer excellence award" in 2015 for my work on the performance optimisation of a national ID PKI deployment. This project required the rapid development a number of load test utilities to apply calculated load to a system to guide the tuning of the products.
 
-###Systematic Software Engineering - Systems Engineer
+### Systematic Software Engineering - Systems Engineer
 *July 2009 to December 2011*
 
 While with Systematic my primary role was as a Systems Engineer within the UK Defence Integration Group. This team utilised agile development practices to deliver C4I interoperability solutions and technical proof of concepts to meet immediate operational requirements. This gave me the opportunity to work on a wide range of projects alongside domain experts and operational users to gain the required knowledge to successfully deliver solutions which met the demands of military deployment. My work often involved the extension of the company’s off the shelf products to integrate more tightly to the customer’s specific environment and requirements.
@@ -54,7 +54,7 @@ One of the main themes of my work was the development of a technologies to impro
 
 In addition to my development role I was asked to take over responsibility for UK support desk. This position allows me frequent contact with our customers while coordinating with the globally dispersed support team. As part of this role I was involved in documenting our processes to meet our audit requirements to retain our ISO 9001:2000 certification.
 
-###Morgan Stanley - Associate Developer
+### Morgan Stanley - Associate Developer
 *June 2007 to June 2008*
 
 For the industrial placement year of my degree course I interned with Morgan Stanley attached to the Enterprise Data Group. Whilst there I worked on two large development projects, the first a secure notification system the second was a desktop application to assist the allocation the department’s staff and resources. These projects gave me experience Linux, Sybase Adaptive-SQL, Java, C# and IBM MQ.
