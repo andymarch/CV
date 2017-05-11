@@ -28,7 +28,7 @@ Introduction to Intelligent Systems, Human Computer Interaction, Programming Lan
 ###### Industrial Placement
 Year with Morgan Stanley.
 
-######Final Year Project
+###### Final Year Project
 Anonymous, peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
 
 ## Professional Experience
