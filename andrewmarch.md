@@ -33,7 +33,7 @@ Anonymous, peer-to-peer distributed file system for the Internet using fragment 
 
 ## Professional Experience
 
-### Entrust Datacard - Software Developer
+### Entrust Datacard - Senior Software Developer
 *September 2016 to present*
 
 Transferred internally to the newly formed PKI Escalation team this team handles support escalations cases requiring code inspection and patches to the Authority PKI product suite. I was assigned responsibility for the Roaming Server product which is a large C++ solution with nearly two decades of development. Having completed a code review I prepared a number of recommendations and combined with existing customer feature requests outlined a roadmap for the next version release.
