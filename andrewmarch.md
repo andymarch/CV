@@ -1,12 +1,9 @@
 # Andrew March
-
-**Email** [mail@andymarch.co.uk](mailto:mail@andymarch.co.uk "mailto:mail@andymarch.co.uk") **Website** [andymarch.co.uk](http://andymarch.co.uk "http://andymarch.co.uk") **Github** [@andymarch](https://github.com/andymarch "https://github.com/andymarch")
+**Email** [mail@andymarch.co.uk](mailto:mail@andymarch.co.uk "mailto:mail@andymarch.co.uk") **Website** [andymarch.co.uk](https://andymarch.co.uk "https://andymarch.co.uk")
 
 Software developer with commercial experience in web, desktop and mobile development using a variety of languages and technologies. Passionate about better approaches to building secure intuitive software. 
 
-
-
-## Technical Skillset Summary
+## Technical Summary
 |||
 |---|---|
 |**Development Languages**|C#, Java, C++, JavaScript
@@ -20,47 +17,43 @@ Software developer with commercial experience in web, desktop and mobile develop
 
 ## Education
 
-### BSc Computer Science with Year in Industry Upper Second Class with Honours
-The University of Kent (2005 – 2009)
+### BSc (Hons) Computer Science with Year in Industry - Upper Second Class
+*The University of Kent (2005 – 2009)* 
 
-###### Electives
-Introduction to Intelligent Systems, Human Computer Interaction, Programming Language Technology, Computer Networks and Communications, Computer Security and Cryptography, E-Commerce, Mobile and Ubiquitous Computing (Masters), Data Mining and Knowledge Discovery (Masters).
-###### Industrial Placement
-Year with Morgan Stanley.
+**Electives:** Introduction to Intelligent Systems, Human Computer Interaction, Programming Language Technology, Computer Networks and Communications, Computer Security and Cryptography, E-Commerce, Mobile and Ubiquitous Computing (Masters), Data Mining and Knowledge Discovery (Masters).
 
-###### Final Year Project
-Anonymous, peer-to-peer distributed file system for the Internet using fragment redundancy scattering. [Project paper](http://andymarch.co.uk/ColonyFS.pdf "http://andymarch.co.uk/ColonyFS.pdf").
+**Final Year Project:** Anonymous, peer-to-peer distributed file system for the Internet using fragment redundancy scattering. For details see [andymarch.co.uk/colony-fs](https://andymarch.co.uk/colony-fs "https://andymarch.co.uk/colony-fs").
 
 ## Professional Experience
 
 ### Entrust Datacard - Senior Software Developer
 *September 2016 to present*
 
-Transferred internally to the newly formed PKI Escalation team this team handles support escalations cases requiring code inspection and patches to the Authority PKI product suite. I was assigned responsibility for the Roaming Server product which is a large C++ solution with nearly two decades of development. Having completed a code review I prepared a number of recommendations and combined with existing customer feature requests outlined a roadmap for the next version release.
+I transferred internally within Entrust Datacard to join the newly formed PKI Escalation team where I was assigned responsibility for Roaming Server. I prepared the project plan for the next major release to migrate the functionality to Java and led the development effort basing the implementation on Spring. This project uses the Kanban methodology drawing in additional resources from the security assurance and QA groups. A critical feature I worked on was the implementation of the password authenticated key exchange, the complexity of multiple client implementations leant itself to a test driven development approach to ensure that each was correctly supported. During development a number of unscheduled patches have been required for existing versions of Roaming Server. These included investigating an issue where high load on a hardware security module resulted in decryption errors failing client authentication requests.
 
-I have lead an internal program for performance testing. This has involved working with stakeholders both from the development and managed services teams to determine what data would be most beneficial, selecting suitable test techniques and designing and executing the appropriate test plans. As part of this work I have developed a number of scripts to automate the testing in AWS EC2 allowing us to scale testing efficiently. This has formed part of a new framework for applying performance testing across the Authority product suite. This testing has been effective in highlighting a number of potential areas for improvement as well as items which must be managed as the application is scaled.
+I led a program for performance testing a new release in the Authority product suite. This involved working with stakeholders both from the development and managed services teams to determine what data would be most beneficial, selecting suitable test techniques and designing appropriate test plans. As part of this work I developed automation to deploy and execute the tests in AWS EC2. During this is testing I was able to identify and resolve a performance restriction allowing for a threefold increase in SCEP request processing. The culmination of this project involved a presentation to the engineering management group and the processes used have formed part of a new internal performance testing framework.
 
 
 ### Entrust Datacard - Principal Consultant Developer
 *January 2012 to September 2016*
 
-Working with customers and partners across the EMEA region to scope and deliver development consultancy based around the Entrust range of authentication and public key infrastructure products. This required involvement in the full project life cycle from initial contact, through design, development and deployment to maintenance. As a member of the development consultancy I delivered customisations and bespoke solutions in Java, C++ and C# as well on Android, these ranged in complexity from custom branding skins and one off utilities through full web and desktop applications with ongoing support agreements.   
+As a professional services consultant I worked with customers and partners across the EMEA region, both pre and post sale, to deliver projects based around the Entrust range of authentication, access management and public key infrastructure products. As a member of the development consultancy I implemented customisations and bespoke solutions in Java, C++ and C# as well as on Android. These projects ranged in complexity from one-off utilities to full web and desktop applications with ongoing support agreements. 
 
-As principal consultant my role included mentoring junior developers, guiding development team practices and co-ordinating resourcing with other groups within the organisation. I introduced issue tracking and agile planning practices for custom developments, managed the migration of source control from ClearCase to Git and built out a continuous integration environment. These processes dramatically improved the level of success the team had delivering projects on-time, on-specification and to a high standard.
+I was the regional subject matter expert for the IdentityGuard multi-factor authentication solution. In this capacity I providing feedback to product management on roadmap goals based on regional requirements. I also delivered partner, customer and developer training courses for this product suite.
 
-In a presales capacity I advised on RFI and RFP responses specifically focusing on capabilities to extend the products with custom components to meet requirements. I regularly represented the company at trade events and delivered partner, customer and developer training courses for the IdentityGuard multi-factor authentication solution. I was nominated as the regional subject matter expert for this product, providing feedback to product management on roadmap goals based on regional requirements.
+Following my promotion to principal consultant I mentored junior developers, guided development team practices and co-ordinated resourcing with other groups in the organisation. I introduced issue tracking and agile planning practices for custom developments, managed the migration of source control from ClearCase to Git and built out a continuous integration environment. These processes dramatically improved the level of success the team had delivering projects on-time, on-specification and to a high standard.
 
-I was recognised with others for a "customer excellence award" in 2015 for my work on the performance optimisation of a national ID PKI deployment. This project required the rapid development a number of load test utilities to apply calculated load to a system to guide the tuning of the products to attain the throughput requested by the customer.
+I was recognised in 2015 for a "customer excellence award" for my work on the performance optimisation of a national ID PKI deployment.
 
 ### Systematic Software Engineering - Systems Engineer
 *July 2009 to December 2011*
 
-The UK Defence Integration Group utilised agile development practices to deliver C4I interoperability solutions and technical proof of concepts to meet immediate operational requirements. This gave me the opportunity to work on a wide range of projects alongside domain experts and operational users to gain the required knowledge to successfully deliver solutions which met the demands of military deployment. This involved working in a CMMI level 5 environment to ensure a high standard of quality in any of our deployed product. My work often involved the extension of the company’s off the shelf products to integrate more tightly to the customer’s specific environment and requirements. One of the main themes of my work was the development of a technologies to improve the operator experience of the company's products; this include a streamline deployment tool, a real time log analysis framework and a state restoration tool. The most successful was based on operational user feedback I developed an extension for IRIS Forms which customised the display of medevac messages to more closely mirror the radio message dramatically reducing the time required to transcribe the message. As a result of this work I also provided training courses to customer staff to allow them to built additional views from a toolkit of components I had developed.
+Working within the UK Defence Integration Group I contributed to a variety of projects dealing with the conversion between national and NATO message text formats and the processing of signal data (GPS, radar and AIS). The majority of this work was C# .NET interacting with the underlying Microsoft SQL databases and secure message queues.
 
-In addition to my development role I was asked to take responsibility for UK support desk. This position allowed me frequent contact with our customers while coordinating with the globally dispersed support team to identify and troubleshoot issues. As part of this role I was involved in documenting our processes to meet our audit requirements to retain our ISO 9001:2000 certification.
+One of my key projects was developing an extension for IRIS Forms to customise the display of messages with HTML and Javascript in response to an immediate operational requirement. The adoption of this technique by a number of customers required me to design and deliver training courses to their staff. 
+
 
 ### Morgan Stanley - Associate Developer
 *June 2007 to June 2008*
 
-For the industrial placement year of my degree course I interned with Morgan Stanley attached to the Enterprise Data Group. Whilst there I worked on two large development projects, the first a secure notification system the second was a desktop application to assist the allocation the department’s resources. These projects gave me experience Linux, Sybase Adaptive-SQL, Java, C# and IBM MQ.
-Throughout my internship I took part in organising departmental presentations on various technical topics, this involved arranging speakers, securing conference facilities and promoting the events. 
+For the placement year of my degree I interned with Morgan Stanley in the Enterprise Data Group. I worked on two large development projects, these gave me exposure to Sybase, C# and IBM MQ. Throughout my internship I took part in organising departmental technical presentations, this involved arranging speakers, securing conference facilities and promoting the events.
